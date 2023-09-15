@@ -6,6 +6,6 @@ public class Camera extends Machine{
         System.out.println("Camera started");
     }
     public void snap(){
-        System.out.println("SNAP.");
+        System.out.println("SNAP");
     }
 }
