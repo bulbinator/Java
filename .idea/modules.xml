@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Class Work/caseStudies/Case Study 1/Case Study 1.iml" filepath="$PROJECT_DIR$/Class Work/caseStudies/Case Study 1/Case Study 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interfaces/Interfaces.iml" filepath="$PROJECT_DIR$/Interfaces/Interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Stuff.iml" filepath="$PROJECT_DIR$/Java Stuff.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Packages/Packages.iml" filepath="$PROJECT_DIR$/Packages/Packages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/caveOfPrograming/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/caveOfPrograming/Polymorphism/Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/caveOfPrograming/Scanner/Scanner.iml" filepath="$PROJECT_DIR$/caveOfPrograming/Scanner/Scanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classes/classes.iml" filepath="$PROJECT_DIR$/classes/classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/caveOfPrograming/genericsAndArrayLists/genericsAndArrayLists.iml" filepath="$PROJECT_DIR$/caveOfPrograming/genericsAndArrayLists/genericsAndArrayLists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/caveOfPrograming/genericsAndWildcards/genericsAndWildcards.iml" filepath="$PROJECT_DIR$/caveOfPrograming/genericsAndWildcards/genericsAndWildcards.iml" />
+      <module fileurl="file://$PROJECT_DIR$/publicPrivateProtected/publicPrivateProtected.iml" filepath="$PROJECT_DIR$/publicPrivateProtected/publicPrivateProtected.iml" />
+      <module fileurl="file://$PROJECT_DIR$/caveOfPrograming/upCastingAndDownCasting/upCastingAndDownCasting.iml" filepath="$PROJECT_DIR$/caveOfPrograming/upCastingAndDownCasting/upCastingAndDownCasting.iml" />
+    </modules>
+  </component>
+</project>
