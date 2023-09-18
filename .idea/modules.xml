@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/Packages/Packages.iml" filepath="$PROJECT_DIR$/Packages/Packages.iml" />
       <module fileurl="file://$PROJECT_DIR$/caveOfPrograming/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/caveOfPrograming/Polymorphism/Polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/caveOfPrograming/Scanner/Scanner.iml" filepath="$PROJECT_DIR$/caveOfPrograming/Scanner/Scanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/caveOfPrograming/abstractClasses/abstractClasses.iml" filepath="$PROJECT_DIR$/caveOfPrograming/abstractClasses/abstractClasses.iml" />
       <module fileurl="file://$PROJECT_DIR$/classes/classes.iml" filepath="$PROJECT_DIR$/classes/classes.iml" />
       <module fileurl="file://$PROJECT_DIR$/caveOfPrograming/genericsAndArrayLists/genericsAndArrayLists.iml" filepath="$PROJECT_DIR$/caveOfPrograming/genericsAndArrayLists/genericsAndArrayLists.iml" />
       <module fileurl="file://$PROJECT_DIR$/caveOfPrograming/genericsAndWildcards/genericsAndWildcards.iml" filepath="$PROJECT_DIR$/caveOfPrograming/genericsAndWildcards/genericsAndWildcards.iml" />
