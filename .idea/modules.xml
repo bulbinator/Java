@@ -11,9 +11,11 @@
       <module fileurl="file://$PROJECT_DIR$/caveOfPrograming/Scanner/Scanner.iml" filepath="$PROJECT_DIR$/caveOfPrograming/Scanner/Scanner.iml" />
       <module fileurl="file://$PROJECT_DIR$/caveOfPrograming/abstractClasses/abstractClasses.iml" filepath="$PROJECT_DIR$/caveOfPrograming/abstractClasses/abstractClasses.iml" />
       <module fileurl="file://$PROJECT_DIR$/classes/classes.iml" filepath="$PROJECT_DIR$/classes/classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/caveOfPrograming/enumType/enumType.iml" filepath="$PROJECT_DIR$/caveOfPrograming/enumType/enumType.iml" />
       <module fileurl="file://$PROJECT_DIR$/caveOfPrograming/equalsMethod/equalsMethod.iml" filepath="$PROJECT_DIR$/caveOfPrograming/equalsMethod/equalsMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/caveOfPrograming/genericsAndArrayLists/genericsAndArrayLists.iml" filepath="$PROJECT_DIR$/caveOfPrograming/genericsAndArrayLists/genericsAndArrayLists.iml" />
       <module fileurl="file://$PROJECT_DIR$/caveOfPrograming/genericsAndWildcards/genericsAndWildcards.iml" filepath="$PROJECT_DIR$/caveOfPrograming/genericsAndWildcards/genericsAndWildcards.iml" />
+      <module fileurl="file://$PROJECT_DIR$/caveOfPrograming/innerClasses/innerClasses.iml" filepath="$PROJECT_DIR$/caveOfPrograming/innerClasses/innerClasses.iml" />
       <module fileurl="file://$PROJECT_DIR$/publicPrivateProtected/publicPrivateProtected.iml" filepath="$PROJECT_DIR$/publicPrivateProtected/publicPrivateProtected.iml" />
       <module fileurl="file://$PROJECT_DIR$/caveOfPrograming/upCastingAndDownCasting/upCastingAndDownCasting.iml" filepath="$PROJECT_DIR$/caveOfPrograming/upCastingAndDownCasting/upCastingAndDownCasting.iml" />
     </modules>
