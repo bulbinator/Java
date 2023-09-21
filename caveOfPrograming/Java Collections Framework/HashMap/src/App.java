@@ -1,5 +1,7 @@
 import java.util.HashMap;
+import java.util.LinkedHashMap;
 import java.util.Map;
+import java.util.TreeMap;
 // Basically Python dictionaries lol
 
 public class App {
@@ -11,14 +13,19 @@ public class App {
         map.put(3, "susman");
 
         String text = map.get(2); // coomer
-        String Null = map.get(4); // prints null
 
         // Iterating through a map:
 
-        for(Map.Entry<Integer, String> i: map.entrySet()) {
-            int key = i.getKey();
-            String value = i.getValue();
+        for(Integer i: map.keySet()) {
+            int key = i;
+            String value = map.get(i);
+            System.out.println(key + ": " + value);
         }
 
+        // Linked HashMaps:
+        LinkedHashMap<Integer, String> linkedHashMapashMap = new LinkedHashMap<>(); // These give your maps order sorts the map by the way you put them in.
+
+        // Tree Map:
+        TreeMap<Integer, String> treeMap = new TreeMap<>(); // These sort your map's keys.
     }
 }
