@@ -51,7 +51,7 @@ public class Amortization {
             }
 
             loanBalance -= principal;
-            output.println(String.format("%d\t%.2f\t\t%.2f\t\t%.2f", month, ,monthlyInterest, principal, loanBalance));
+            output.println(String.format("%d\t%.2f\t\t%.2f\t\t%.2f", month,monthlyInterest, principal, loanBalance));
         }
 
         output.close();
